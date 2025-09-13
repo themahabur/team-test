@@ -16,6 +16,11 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
+          <Link href="/arifuzzaman" className="text-white hover:text-teal-400">
+            Arif
+          </Link>
+        </li>
+        <li>
           <Link href="/about" className="text-white hover:text-teal-400">
             About
           </Link>
