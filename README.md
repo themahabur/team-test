@@ -61,13 +61,16 @@ Go to the repository on GitHub. You should see a prompt to create a Pull Request
 
 - Click "Create pull request".
 
-7. Review and Merge
-   Once a pull request is opened, the team leader will review the changes and merge them into the main branch.
+## 7. Review and Merge
 
-👥 Team Members
+Once a pull request is opened, the team leader will review the changes and merge them into the main branch.
+
+## 👥 Team Members
+
 Please add your GitHub username here once you've successfully completed the steps!
 
 - @ana-yet
 
-✨ Acknowledgements
+## ✨ Acknowledgements
+
 Thanks to everyone for participating and helping us build a smooth workflow for our real project!
