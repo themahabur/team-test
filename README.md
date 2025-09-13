@@ -15,7 +15,7 @@ Please follow these steps carefully to practice our collaboration workflow. Sinc
 Clone the project repository to your local machine.
 
 ```
-git clone [https://github.com/themahabur/team-test.git](https://github.com/themahabur/team-test.git)
+git clone https://github.com/themahabur/team-test.git
 ```
 
 ## 2. Create a New Branch
@@ -34,8 +34,9 @@ Now it's time to make your change!
 
 - Add your name to the file on a new line.
 
-4. Commit Your Changes
-   Save the file and commit your changes with a clear commit message.
+## 4. Commit Your Changes
+
+Save the file and commit your changes with a clear commit message.
 
 ```
 git add CONTRIBUTORS.md
