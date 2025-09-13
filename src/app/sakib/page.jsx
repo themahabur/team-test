@@ -9,6 +9,9 @@ const Sakib = () => {
       <p className="text-2xl text-shadow-amber-500 text-center my-6">
         Welcome to Sakib's page!
       </p>
+      <p className="text-lg text-center my-4">
+        This is a sample page created to demonstrate routing in Next.js.
+      </p>
     </div>
   );
 };
